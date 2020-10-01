@@ -12,9 +12,10 @@ const Layout = ({ children }) => {
             font-size: 62.5%;
           }
           body {
-            font-size: 16px;
-            font-size: 1.6rem;
+            font-size: 168x;
+            font-size: 1.8rem;
             line-height: 1.5;
+            font-family: "PT Sans", sans-serif;
           }
           h1,
           h2,
